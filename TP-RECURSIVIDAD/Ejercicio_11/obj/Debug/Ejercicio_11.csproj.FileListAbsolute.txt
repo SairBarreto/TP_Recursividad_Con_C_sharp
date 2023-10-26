@@ -1,0 +1,7 @@
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-RECURSIVIDAD\Ejercicio_11\bin\Debug\Ejercicio_11.exe.config
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-RECURSIVIDAD\Ejercicio_11\bin\Debug\Ejercicio_11.exe
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-RECURSIVIDAD\Ejercicio_11\bin\Debug\Ejercicio_11.pdb
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-RECURSIVIDAD\Ejercicio_11\obj\Debug\Ejercicio_11.csproj.AssemblyReference.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-RECURSIVIDAD\Ejercicio_11\obj\Debug\Ejercicio_11.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-RECURSIVIDAD\Ejercicio_11\obj\Debug\Ejercicio_11.exe
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-RECURSIVIDAD\Ejercicio_11\obj\Debug\Ejercicio_11.pdb
