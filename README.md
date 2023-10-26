@@ -2,4 +2,4 @@
 
 Ejercicios Propuestos por la Facultad para practicar Recursividad
 
-- [Enunciados]
+- [Enunciados](Ejercicios_Recursividad.pdf)
